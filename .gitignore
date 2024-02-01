@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.DS_Store
 # C extensions
 *.so
-
+data
 # Distribution / packaging
 .Python
 build/
@@ -127,7 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+echo-venv
 # Spyder project settings
 .spyderproject
 .spyproject
